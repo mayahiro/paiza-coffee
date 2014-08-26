@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "chai": "^1.9.1",
+    "grunt": "^0.4.4",
+    "grunt-coffeelint": "0.0.8",
+    "grunt-contrib-coffee": "^0.10.1",
+    "grunt-contrib-concat": "^0.3.0",
+    "grunt-este-watch": "^0.1.15",
+    "grunt-simple-mocha": "^0.4.0"
+  }
+}
